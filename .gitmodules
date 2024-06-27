@@ -1,0 +1,3 @@
+[submodule "algorithms-exercises"]
+	path = algorithms-exercises
+	url = git@github.com:bbuukk/algorithms-exercises.git
