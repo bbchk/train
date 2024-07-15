@@ -1,3 +1,7 @@
 [submodule "algorithms-exercises"]
-	path = algorithms-exercises
-	url = git@github.com:bbuukk/algorithms-exercises.git
+path = algorithms-exercises
+url = git@github.com:bbuukk/algorithms-exercises.git
+
+[submodule "exploring-js"]
+path = exploring-js
+url = git@github.com:bbuukk/ten.git
