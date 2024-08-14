@@ -5,3 +5,7 @@ url = git@github.com:bbuukk/algorithms-exercises.git
 [submodule "exploring-js"]
 path = exploring-js
 url = git@github.com:bbuukk/ten.git
+
+[submodule "webpack-workshop-2018"]
+path = webpack-workshop-2018
+url = git@github.com:bbuukk/webpack-workshop-2018.git
