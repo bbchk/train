@@ -18,6 +18,7 @@ const res = isPalindrome(900009)
 // let 100 999
 const palindromes = []
 
+
 for (let i = 100; i <= 999; i++) {
 
     for (let j = i; j <= 999; j++) {
