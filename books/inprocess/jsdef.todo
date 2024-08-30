@@ -1,0 +1,118 @@
+Learn more about Symbol types and features bond with it in JS
+Learn about how js engine works, how it's just in time compiler works
+Repeat everything with event loop
+Repeat how JS works with coercion of types, what does it use internally for it?
+
+/*
+
+Note,
+however, that certain operations in JavaScript (such as array indexing and the bitwise
+3.2 Numbers | 25
+operators described in Chapter 4) are performed with 32-bit integers.
+
+what does it mean? research
+
+*/
+
+/*
+
+Research losing presicion with very little and very big numbers in JS
+TEN THOUSAND REPEAT
+
+The JavaScript number format allows you to exactly represent all integers between −9,007,199,254,740,992 (−253) and 9,007,199,254,740,992 (253), inclusive. If you use integer values larger than this, you may lose precision in the trailing digits. 
+
+*/
+
+/*
+
+How to convert from base 8 to 10? From 16? From 10 to 16? From 10 to binary? Backwards? Repeat all of this stuff!
+
+*/
+
+
+/*
+
+Is there an Object.copy() function? What are the ways to deep copy an object in JS?
+
+*/
+
+
+/*
+
+What is logarithm? 
+
+*/
+
+/*
+
+Why is it still relative to learn Ruby in 2024? What are the cool features ruby does have other pls don't?
+
+*/
+
+
+/*
+
+Underflow occurs when the result of a numeric operation is closer to zero than the
+smallest representable number. In this case, JavaScript returns 0. If underflow occurs
+from a negative number, JavaScript returns a special value known as “negative zero.”
+This value is almost completely indistinguishable from regular zero and JavaScript
+programmers rarely need to detect it.
+
+What js dev should know about -0? What is underflow, more examples, i didn't get it.
+
+
+1/zero === 1/negz // => false: Infinity and -Infinity are not equal
+
+
+*/
+
+
+/*
+
+Number.parseInt() // Same as the global parseInt() function
+Number.parseFloat() // Same as the global parseFloat() function
+Number.isNaN(x) // Is x the NaN value?
+Number.isFinite(x) // Is x a number and finite?
+Number.isInteger(x) // Is x an integer?
+Number.isSafeInteger(x) // Is x an integer -(2**53) < x < 2**53?
+
+REPEAT!
+
+Rewrite my own js library.
+
+*/
+
+
+/*
+
+The IEEE-754 floating-point representation used by JavaScript (and just about every other modern programming language) is a binary representation,
+
+read about this! what are other propositions of represantations that can mitigate this problem? why they are not getting implemented yet in all the pls?
+
+RESEARCH: If these floating-point approximations are problematic for your programs, considerusing scaled integers. For example, you might manipulate monetary values as integer cents rather than fractional dollars.
+
+*/
+
+
+/*
+
+is BigInt supported in Safari already?
+
+*/
+
+
+*/
+
+RESEARCH
+ (Note, however, that BigInt implementations are not suitable for cryptog‐
+raphy because they do not attempt to prevent timing attacks.)
+
+*/
+
+/*
+
+In ES6, however, strings are iterable, and if you use the for/of loop or ... operator with a string, it will iterate the actual characters of the string, not the 16-bit values.
+
+How is this implemented in the language?
+
+*/

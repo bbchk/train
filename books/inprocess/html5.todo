@@ -1,0 +1,12 @@
+Many of these design principles will be familiar to you if
+you’ve ever dabbled in the microformats community (http://
+microformats.org).
+
+Document Type Declarations were intended for validators,
+not browsers. The only time that a browser pays any attention
+to a doctype is when it is performing “doctype switching”—
+a clever little hack that switches rendering between quirks
+mode and standards mode depending on the presence of a
+decent doctype
+
+
