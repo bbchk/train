@@ -1,0 +1,25 @@
+
+If you’re interested in the detailed workings of a kernel, two good textbooks are
+Operating System Concepts, 10th edition, by Abraham Silberschatz, Peter B.
+Galvin, and Greg Gagne (Wiley, 2018), and Modern Operating Systems, 4th
+edition, by Andrew S. Tanenbaum and Herbert Bos (Prentice Hall, 2014)
+
+For more details about Unix for beginners than you’ll find here, consider reading
+The Linux Command Line, 2nd edition (No Starch Press, 2019), UNIX for the
+Impatient, 2nd edition (Addison-Wesley Professional, 1995), and Learning the
+UNIX Operating System, 5th edition (O’Reilly, 2001)
+
+The grep(1) manual page contains a detailed description of regular expressions, but it
+can be somewhat difficult to read. To learn more, you can read Mastering Regular
+Expressions, 3rd edition, by Jeffrey E. F. Friedl (O’Reilly, 2006), or see the regular
+expressions chapter of Programming Perl, 4th edition, by Tom Christensen et al.
+(O’Reilly, 2012). If you like math and are interested in where regular expressions come
+from, look up Introduction to Automata Theory, Languages, and Computation,
+3rd edition, by Jeffrey Ullman and John Hopcroft (Prentice Hall, 2006).
+
+Learning the vi and Vim Editors: Unix Text Processing, 7th edition, by Arnold
+Robbins, Elbert Hannah, and Linda Lamb (O’Reilly, 2008), can tell you
+everything you need to know about vi. For Emacs, use the online tutorial:
+start Emacs, press CTRL-H, and then type T. Or read GNU Emacs Manual,
+18th edition, by Richard M. Stallman (Free Software Foundation, 2018).
+
