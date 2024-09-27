@@ -116,3 +116,25 @@ git cherry
 not cherry-pick
 
 git cat-file
+
+# 09/06
+
+explore branch naming conventions
+https://medium.com/@abhay.pixolo/naming-conventions-for-git-branches-a-cheatsheet-8549feca2534
+
+https://codingsight.com/git-branching-naming-convention-best-practices/
+
+https://hackernoon.com/git-branch-naming-convention-7-best-practices-to-follow-1c2l33g2
+
+https://deepsource.io/blog/git-branch-naming-conventions/
+
+mandatory use pl templates on my projects in ib
+
+is there a nvim extension that adds highlight to git conflict markers
+
+WHY you did that commit
+It is important to convey WHY you did that changes in the commit you have made!
+
+How: Set up your old laptop as a web server, file server, or media server using software like Apache, Nginx, or Plex.
+
+<--! -->
