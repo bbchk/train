@@ -1,0 +1,16 @@
+Very important tip!
+
+Getting Braces and Semicolons in the Right Place Is
+the Easy Part
+When you start out, you’ll constantly put brackets, braces, semicolons, dots and pretty much
+everything else in the wrong place. You’ll forget to put in a single character and your whole
+program won’t work.
+This can be incredibly frustrating at first! But once you get the hang of it, you soon realize that
+getting the syntax right is the easy part. It’s easy because it’s strict. It’s either right or it’s wrong.
+It works or it doesn’t.
+The hard part is actually writing the logic, breaking a problem down to its smallest parts so you
+can explain it to the computer. The computer will quickly tell you if the syntax is wrong, but
+there’s no way for it to tell you whether you’ve given it the right instructions to solve the
+problem at hand.
+
+
