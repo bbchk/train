@@ -234,3 +234,23 @@ what are subdoins for anyway?
 
 signed urls? how do they work exectly?
 are they being actively used?
+
+Here’s the drawback: Laravel will now match routes against that cached file instead of your actual routes/\* files. You can make endless changes to your routes files, and they won’t take effect until you run route:cache again. This means you’ll have to recache every time you make a change, which introduces a lot of potential for confusion.
+
+is there a way to cache only some routes in Laravel?
+
+can we integrate somehow laravel in old, plain php projects?
+and gradually rewrite them in laravel? If yes, is it a common practice?
+
+i think reading a book about technology or language does following things:
+
+1. Lay down of a map to explore
+   You know what basically is available, you know what everything is called
+   creating a dictionary, table of contents if you wish in your ORIG_HEAD
+
+2. It lets you get rid of fear to be eaten by this monstrous techonology
+   As you know what to expect, you fear less and are more ready to explore
+   it in deep.
+
+3. It gives an awereness of some techonology history, its bugs, its intricacies
+   very easily, in a processed way by someone already. It does shorten a gap between you and tech as well.
