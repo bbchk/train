@@ -1,0 +1,18 @@
+spin_manifest_version = 2
+
+[application]
+name = "hello"
+version = "0.1.0"
+authors = ["Bohdan Buchok <bohdanbuchok@gmail.com>"]
+description = "exec simple wasm app"
+
+[[trigger.http]]
+route = "/hello"
+component = "hello"
+
+[component.hello]
+source = "hello.wasm"
+allowed_outbound_hosts = []
+[component.hello.build]
+command = "cargo build --target wasm32-wasi --release"
+watch = ["src/**/*.rs", "Cargo.toml"]
