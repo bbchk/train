@@ -254,3 +254,11 @@ i think reading a book about technology or language does following things:
 
 3. It gives an awereness of some techonology history, its bugs, its intricacies
    very easily, in a processed way by someone already. It does shorten a gap between you and tech as well.
+
+what if to use hasManythrough on relation that have onne throught or reverse?
+what will happen? what are the ways to handle this other than creating new (pivot) table?
+
+The less data you have in a pivot table, the better.
+why?
+
+non-tech people does not percieve programming as building from lego, so this analogy is not a good fit
