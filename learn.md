@@ -239,9 +239,6 @@ Here’s the drawback: Laravel will now match routes against that cached file in
 
 is there a way to cache only some routes in Laravel?
 
-can we integrate somehow laravel in old, plain php projects?
-and gradually rewrite them in laravel? If yes, is it a common practice?
-
 i think reading a book about technology or language does following things:
 
 1. Lay down of a map to explore
@@ -262,3 +259,66 @@ The less data you have in a pivot table, the better.
 why?
 
 non-tech people does not percieve programming as building from lego, so this analogy is not a good fit
+
+is it right to create hierarchy of requests in laravel?
+
+how session auth cookies are stored on the system?
+is it getting encrypted? f.e. google chrome
+
+does google chrome creates its own keyring only for itself?
+
+---
+
+can we integrate somehow laravel in old, plain php projects?
+and gradually rewrite them in laravel? If yes, is it a common practice?
+
+- laravel
+  prepare for validation method in validation request. Should we use it?
+  Or should we just give default values in controller?
+  or maybe passedValidation?
+
+- can we destructure in their own vars
+  $person = ['name' => 'John', 'age' => 30, 'city' => 'New York'];
+
+move pagination to controllers, splat, dynamic fields in sort.
+
+dont' make tests comlicated (peak: defining variable)
+
+introduce resources to article, tags, comments to the lup
+how to sail artisan make resource
+
+move authorization protection to requests
+
+active directory account
+
+feat(article-cover): complete article cover photo API
+
+- Update route can now be used to delete article's cover by setting cover to
+  anything but image in request
+
+upgrade all tests them to be not flaky;
+
+what will happen if user got deleted to his/her comments
+t
+
+1. Is it possible to run tests in parallel in vitest? Is it a common practice? What are the most common pitfalls using it?
+2. What strategies and tricks can we use to make our tests run faster overall?
+
+3. What are the advantages and downsides headless browser testing(Cypress) compared to in-memory DOM testing?
+   It seems that dom in memory can be faster, maybe, nope?
+   Why vitest don't use just headless browser, that will have routing built-in and other stuff. Also, there would not be problems with mantine, that we had
+   What are the trade-offs using headless over dom in memory?
+
+it is necessary to teach people to percieve diffrent teachers normally in the university!
+adn not hate and disrespect them
+
+#researchonmyown: I am curious also about how more traditional front-end testing library with getById, getByClassname perfomance compares with this approach with GetByText in testing library for example?
+
+digesting information always try to make up a question,
+that will force u to listen carefully and learn. Also, to expend possible
+limits of knowledge thar you can get from that resource.
+
+perfomance of tests, should i broke it granually, or it should be all crapped in one?
+front-end and back-end
+
+sudo pacman -S gst-plugin-pipewire
