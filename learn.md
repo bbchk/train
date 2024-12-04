@@ -434,45 +434,22 @@ certification
 
 when to use inheritance and what is the problem it solves?
 repeat command design patter as the guy can know that we were learning it and may wanna ask for it
+learn what is RPC (architect style)
 
-.articlesList--empty {
-display: flex;
-justify-content: center;
-align-items: center;
+let navigate to user account in comments as well
 
-min-height: 300px;
+Potential issues:
 
-margin: 20px 0 100px;
-}
+This long-lived nature can be a problem in certain scenarios, such as in application servers where memory leaks can occur if Singletons hold references to objects from multiple redeployments.
 
-.articlesList\_\_figure {
-position: relative;
-}
+how inheritance is diffrent in js than other more conventional langs?
 
-.articlesList\_\_image {
-width: 200px;
-height: 200px;
-object-fit: cover;
-}
+learn about gc(garbage collection) in js
+These typically involve generational collection, where objects are divided into "young" and "old" generations.
 
-.articlesList\_\_caption {
-padding: 20px 0;
+learn more about Object.freeze();
+Object.seal()
+Object.preventExtensions()
 
-position: absolute;
-left: 50%;
-transform: translateX(-50%);
-
-min-width: max-content;
-
-color: $primary;
-font-family: $serif;
-font-size: 2rem;
-}
-
-.articlesList--empty .articlesList\_\_image {
-opacity: 0.5;
-}
-
-.articlesPageList\_\_listSort {
-@extend .articlesListSort;
-}
+TOP 1 NOTES
+always use debugger, it makes life so much easier, why not then!?
