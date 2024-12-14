@@ -64,17 +64,3 @@ that one week is not enough frankly.
 i like, how we, as programmers, should always keep up and be in constant movement, learn and apply smth new everyday
 
 ---
-
----
-
-## APP IDEAS
-
-what problems do my family and people around me run in daily basis;
-
-dating app for women. hard to get to
-
-better roadmap for full-stack with cool ref to cool resources (all for free)
-
-learning languages with ai, ai explain exect meaning and emotions behind word
-
----
