@@ -41,6 +41,12 @@ that one week is not enough frankly.
 
 ## DEVHINTS
 
+- Git is the one of most important tools for a dev and so i think it is not enough
+  to be a good user of but it is necessary to understand internals and become kinda
+  superuser in it.
+  cool website with exercises:
+  https://gitexercises.fracz.com/committer/10cf199cfa25c87d3d94c2ab0a6cb44eaff25dc6
+
 - Look at your work log every week. If something interesting happens, document it. Did you fix a major performance issue? Write it down. Did you find a weird bug in a third-party API? Document it. This stuff comes in handy during reviews or when you're job hunting.
 
 - Every fix, every solution – no matter how small – needs to be "sold." Make a report. Build a dashboard. Because if you don't show off your work, someone else will take credit. Trust me on this one. That script that saves 10 minutes of deploy time? That's "deployment optimization" now. Put it in a nice graph. Management loves graphs.
@@ -62,5 +68,17 @@ that one week is not enough frankly.
 ## NOTE
 
 i like, how we, as programmers, should always keep up and be in constant movement, learn and apply smth new everyday
+
+---
+
+---
+
+## JOB WISHES
+
+1. Strict deadlines, with specified date and time
+2. Flexible schedule, if i want to work, i work and if i don't i have the right not to
+3. Trustworthy relationships between my boss and me
+4. Community that's all trying to innovate (some new things i propose will be reviewed)
+   ,where everyone listens and respect each other
 
 ---
