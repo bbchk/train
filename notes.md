@@ -1,5 +1,3 @@
-## <!-- fdhsjfshjhk -->
-
 ## NOTE
 
 i think reading a book about technology or language does following things:
