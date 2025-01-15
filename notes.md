@@ -59,6 +59,9 @@ that one week is not enough frankly.
   that will force u to listen carefully and learn.
   Also, to expend possible limits of knowledge from the resource.
 
+- always get info from diffrent sources (at least 2), it gives diffrent perspectives on the
+  subject, that allows to have more holistic picture
+
 ---
 
 ---
