@@ -1,0 +1,1 @@
+- if user does not have home folder, where's their data gets stored?

@@ -83,3 +83,15 @@ i like, how we, as programmers, should always keep up and be in constant movemen
    ,where everyone listens and respect each other
 
 ---
+
+by 25
+meet azov physical requirements
+learn tactic medicine
+
+make drone
+buy drone controller and helmet
+
+ikeify project
+
+learn js whole api and dom api
+finish building portfolio
