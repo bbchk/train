@@ -13,6 +13,10 @@ i think reading a book about technology or language does following things:
 3. It gives an awereness of some techonology history, its bugs, its intricacies
    very easily, in a processed way by someone already. It does shorten a gap between you and tech as well.
 
+provide people with multiple 3+ sources of knowledge
+
+docs first, always docs first than another feature
+
 ---
 
 ---
@@ -86,6 +90,7 @@ i like, how we, as programmers, should always keep up and be in constant movemen
 
 by 25
 meet azov physical requirements
+
 learn tactic medicine
 
 make drone
